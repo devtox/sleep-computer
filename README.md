@@ -16,4 +16,4 @@ Change sleep.sh script to your display (xrandr)
 ```
 
 
-<img src="sleep.png" alt="stop computer addiction">
+<img src="https://github.com/devtox/sleep-computer/blob/main/jail.png?raw=true" alt="stop computer addiction">
