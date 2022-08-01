@@ -1,12 +1,17 @@
 
 ## Save screen
 
-Stop infinity jail, attention economy. Don't waste life!
+Stop infinity jails, attention economy. Don't waste life and get some sleep!
 
-Auto turn off screen computer at times
-cronjob and bash script
+Auto turn off screen computer at times with cronjob (bash script?)
 
 Change sleep.sh script to your display (xrandr)
+
+```
+crontab -e
+```
+
+Add these and change the times, change display to yours.
 
 ```
 # turn off/on screen automatically
